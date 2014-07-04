@@ -33,7 +33,7 @@ var newObject = objectJoin(obj1, obj2);
 ```
 
 ## API
-#### object-join()
+#### objectJoin()
 Merges two objects into a new object. Takes `{Object} obj1` and `{Object} obj2` 
 as arguments. If duplicate keys exist, `{Object} obj2`'s keys take presedence.
 ```js
