@@ -1,7 +1,7 @@
 {
   "name": "object-join",
   "version": "1.0.1",
-  "description": "",
+  "description": "Merge two objects recursively into a new object",
   "main": "index.js",
   "scripts": {
     "test": "NODE_ENV=test ./node_modules/mocha/bin/mocha --recursive --harmony-generators -R spec",
